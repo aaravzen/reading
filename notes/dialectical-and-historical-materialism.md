@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Dialectical and Historical Materialism"
+---
 Dialectical and Historical Materialism
 
 JV Stalin

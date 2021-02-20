@@ -1,3 +1,7 @@
+---
+layout: page
+title: "The Path Which Led Me To Leninism"
+---
 The Path Which Led Me To Leninism
 
 Ho Chi Minh

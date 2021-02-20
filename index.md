@@ -1,3 +1,3 @@
 # Reading Notes
 
-[Settlers](./notes/settlers/)
+[Settlers](/notes/settlers.md)

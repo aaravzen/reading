@@ -1,3 +1,3 @@
 # Reading Notes
 
-[Settlers](/settlers/)
+[Settlers](/notes/settlers/)

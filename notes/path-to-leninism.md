@@ -4,7 +4,7 @@ title: "The Path Which Led Me To Leninism"
 ---
 The Path Which Led Me To Leninism
 
-Ho Chi Minh
+Ho Chi Minh, 1960
 
 - Post WW1 in Paris, at French Socialist Party
 - given Lenin’s “Thesis on the national and colonial questions”

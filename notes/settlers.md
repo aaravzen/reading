@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Settlers"
-permalink: /settlers/
 ---
 Settlers
 

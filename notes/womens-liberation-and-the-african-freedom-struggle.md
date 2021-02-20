@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Women's Liberation and the African Freedom Struggle"
+---
 Women's Liberation and the African Freedom Struggle
 
 Thomas Sankara

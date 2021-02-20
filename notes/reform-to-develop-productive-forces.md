@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Reform is the only way for China to develop its productive forces"
+---
+
 Reform is the only way for China to develop its productive forces
 
 Deng Xiaoping, 08/28/1985

@@ -4,6 +4,8 @@
 
 [Imperialism: The Highest Stage of Capitalism - V.I. Lenin, 1917](/notes/imperialism.md)
 
+[The Foundations of Leninism - JV Stalin, 1953](/notes/foundations-of-leninism.md)
+
 [State and Revolution - V.I. Lenin, 1917](/notes/state-and-revolution.md)
 
 [Settlers - J. Sakai, 1983](/notes/settlers.md)
@@ -49,5 +51,7 @@
 [Marxism and Problems of Linguistics - JV. Stalin, 1950](/notes/marxism-and-problems-of-linguistics.md)
 
 [To Be Attacked By The Enemy Is Not A Bad Thing But A Good Thing - Mao Zedong, 1939](/notes/to-be-attacked.md)
+
+[Talks at the Yan’an Forum on Literature and Art - Mao Zedong, 1942](/notes/yanan-forum.md)
 
 

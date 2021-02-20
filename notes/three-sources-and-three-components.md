@@ -1,3 +1,7 @@
+---
+layout: page
+title: "The Three Sources and Three Component Parts of Marxism"
+---
 The Three Sources and Three Component Parts of Marxism
 
 Vladimir Lenin, 1913

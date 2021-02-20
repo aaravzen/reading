@@ -7,6 +7,7 @@ Settlers
 J. Sakai, 1983
 
 Intro
+
 "The imperialists even concede that their standard "U.S. history" is a white history, and is supposedly incomplete unless the long-suppressed Third-World histories are added to it. Why? The key to the puzzle is that Theirstory (imperialist Euro-Amerikan mis-history) is not incomplete; it isn't true at all. Theirstory also includes the standard class analysis of Amerika that is put forward into our hands by the Euro-Amerikan Left. Theirstory keeps saying, over and over: 'You folks, just think about your own history; don't bother analyzing white society, just accept what we tell you about it.'"
 
 I. The Heart of Whiteness

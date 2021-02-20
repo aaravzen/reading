@@ -3,6 +3,8 @@ layout: page
 title: "Settlers"
 permalink: /settlers/
 ---
+Settlers
+
 J. Sakai, 1983
 
 Intro
